@@ -108,7 +108,7 @@ Or ....
     python.exe -m pip install --upgrade pip
     ```
 
-    ### **`Linux Users`**  : You know what to do :sunglasses:
+### **`Linux Users`**  : You know what to do :sunglasses:
 
 
 The `requirements.txt` file contains the libraries needed for deployment.. of model or dashboard .. thus no jupyter or other libs used during development.
