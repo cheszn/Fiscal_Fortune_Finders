@@ -81,8 +81,6 @@ st.markdown("""
     """)
 st.markdown("<h3></h3>", unsafe_allow_html=True)
 
-    #Setting Application sidebar default
-image = Image.open('sales.jpeg')
 
 
 prediction_method = st.sidebar.selectbox("Select Prediction Method", [
