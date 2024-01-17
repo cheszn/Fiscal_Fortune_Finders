@@ -1,51 +1,51 @@
 feature,importance
-num__Total Time Spent on Website,0.04613006
-num__Asymmetrique Profile Score,0.0052318783
-cat__Last Activity_0,0.0047142245
-cat__Last Activity_1,0.009542666
-cat__Last Activity_2,0.005128329
-cat__Last Activity_3,0.0015874802
-cat__Last Activity_4,0.0027134388
-cat__Last Activity_5,0.0
-cat__Last Activity_6,0.002095111
-cat__Last Activity_7,0.0
-cat__Last Activity_8,0.0034321756
-cat__Last Activity_9,0.0054033715
-cat__Last Activity_10,0.0036408904
-cat__Last Activity_12,0.08518108
-cat__Last Activity_13,0.0015130794
-cat__Last Activity_14,0.0024671806
-cat__Last Activity_15,0.0
-cat__Last Activity_16,0.0
-cat__Lead Origin_0,0.0065695895
-cat__Lead Origin_1,0.01976691
-cat__Lead Origin_2,0.36261225
-cat__Lead Origin_3,0.00067906146
-cat__Lead Origin_4,0.0
-cat__Lead Source_0,0.0
-cat__Lead Source_1,0.0033045516
-cat__Lead Source_2,0.018226199
-cat__Lead Source_3,0.0013270421
-cat__Lead Source_4,0.0024824773
-cat__Lead Source_5,0.01151751
-cat__Lead Source_6,0.0022508393
-cat__Lead Source_7,0.0
-cat__Lead Source_9,0.0033078608
-cat__Lead Source_10,0.0035773667
-cat__Lead Source_11,0.0
-cat__Lead Source_12,0.0
-cat__Lead Source_13,0.0
-cat__Lead Source_14,0.0
-cat__Lead Profile_0,0.0030543765
-cat__Lead Profile_1,0.0020357464
-cat__Lead Profile_2,0.0043132748
-cat__Lead Profile_3,0.10685483
-cat__Lead Profile_4,0.02056206
-cat__Lead Profile_5,0.0006763223
-cat__Lead Quality_0,0.080412395
-cat__Lead Quality_1,0.057484493
-cat__Lead Quality_2,0.019734804
-cat__Lead Quality_3,0.028287787
-cat__Lead Quality_4,0.039501205
-cat__Do Not Email_0.0,0.022680102
-cat__Do Not Email_1.0,0.0
+num__total_time_spent_on_website,0.04613006
+num__asymmetrique_profile_score,0.0052318783
+cat__last_activity_0,0.0047142245
+cat__last_activity_1,0.009542666
+cat__last_activity_2,0.005128329
+cat__last_activity_3,0.0015874802
+cat__last_activity_4,0.0027134388
+cat__last_activity_5,0.0
+cat__last_activity_6,0.002095111
+cat__last_activity_7,0.0
+cat__last_activity_8,0.0034321756
+cat__last_activity_9,0.0054033715
+cat__last_activity_10,0.0036408904
+cat__last_activity_12,0.08518108
+cat__last_activity_13,0.0015130794
+cat__last_activity_14,0.0024671806
+cat__last_activity_15,0.0
+cat__last_activity_16,0.0
+cat__lead_origin_0,0.0065695895
+cat__lead_origin_1,0.01976691
+cat__lead_origin_2,0.36261225
+cat__lead_origin_3,0.00067906146
+cat__lead_origin_4,0.0
+cat__lead_source_0,0.0
+cat__lead_source_1,0.0033045516
+cat__lead_source_2,0.018226199
+cat__lead_source_3,0.0013270421
+cat__lead_source_4,0.0024824773
+cat__lead_source_5,0.01151751
+cat__lead_source_6,0.0022508393
+cat__lead_source_7,0.0
+cat__lead_source_9,0.0033078608
+cat__lead_source_10,0.0035773667
+cat__lead_source_11,0.0
+cat__lead_source_12,0.0
+cat__lead_source_13,0.0
+cat__lead_source_14,0.0
+cat__lead_profile_0,0.0030543765
+cat__lead_profile_1,0.0020357464
+cat__lead_profile_2,0.0043132748
+cat__lead_profile_3,0.10685483
+cat__lead_profile_4,0.02056206
+cat__lead_profile_5,0.0006763223
+cat__lead_quality_0,0.080412395
+cat__lead_quality_1,0.057484493
+cat__lead_quality_2,0.019734804
+cat__lead_quality_3,0.028287787
+cat__lead_quality_4,0.039501205
+cat__do_not_email_0.0,0.022680102
+cat__do_not_email_1.0,0.0
